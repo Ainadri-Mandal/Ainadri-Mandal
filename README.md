@@ -19,6 +19,12 @@
 
 > _Code it, style it, ship it. Then dream bigger._
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ainadri-Mandal&label=Profile+Views&color=b57edc&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Ainadri-Mandal/Ainadri-Mandal/stargazers">
+    <img src="https://img.shields.io/github/stars/Ainadri-Mandal/Ainadri-Mandal?color=b57edc&logo=github&style=flat" alt="Stars" />
+  </a>
+</p>
 ---
 
 ### 🎨 Vibes & Hobbies
