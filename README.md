@@ -70,7 +70,7 @@
 
 | 💡 Project | 🚀 Tech Used | 🔗 Link |
 |-----------|--------------|--------|
-| **Rentify (Room Booking)** | MERN, Firebase | [Rentify](https://github.com/RuthlessG-CYBER/IBM-FINAL-PROJECT) |
+| **Rentify (Room Booking)** | MERN, Firebase | [Rentify](https://ibm-final-project-pink.vercel.app/) |
 | **Ainaa (Shopping Site)** | HTML, CSS, React (UI done) | [_In Progress_](https://github.com/Ainadri-Mandal/Ainaa-E-commerce-Website) |
 | **Paytm Clone / Calculator / Keyboard** | JS, CSS | [IBM Repo](https://github.com/Ainadri-Mandal/IBM-Assignments) |
 | **Portfolio Website** | HTML, CSS, JS | [Portfolio](https://github.com/Ainadri-Mandal/Portfolio/tree/main/portfolio) |
