@@ -96,7 +96,7 @@
 
 ---
 
-### 📈 GitHub Stats (Compact)
+### 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ainadri-Mandal&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&card_width=300" width="250" />
