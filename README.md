@@ -3,138 +3,127 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=700&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ainadri+Mandal;Developer+%E2%9A%9B%EF%B8%8F+%7C+Data+Explorer+%F0%9F%94%8D;Artist+%F0%9F%8E%A8+%7C+Music+Lover+%F0%9F%8E%B6+%7C+Dreamer+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<!-- 💻 Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="150" />
 </p>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 💁🏻‍♀️ About Me
 
-🌟 Hey! I’m Ainadri — a **developer**, **data science explorer**, and a little bit of an **artist at heart**!  
+🌟 I’m Ainadri — a **developer**, **data explorer**, and an **artist at heart**  
 💻 CS Undergrad  
-✨ I love combining **logic and creativity** — whether that’s through code, a sketchpad, or a melody.  
-🎯 Currently learning **MERN stack** and **Machine Learning** tools.
+🎯 Currently diving into **MERN Stack** & **ML**  
+✨ Merging creativity with logic is my jam  
 
 > _Code it, style it, ship it. Then dream bigger._
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ainadri-Mandal&label=Profile+Views&color=b57edc&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Ainadri-Mandal/Ainadri-Mandal/stargazers">
-    <img src="https://img.shields.io/github/stars/Ainadri-Mandal/Ainadri-Mandal?color=b57edc&logo=github&style=flat" alt="Stars" />
-  </a>
-</p>
----
-
-### 🎨 Vibes & Hobbies
-
-- 🎧 Lo-fi beats & keyboard clicks = best combo  
-- ✏️ Sketching when words don’t cut it  
-- 🧠 Learning something new, always  
-- 💖 UI/UX with a sprinkle of personality  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180" />
+  <img src="https://komarev.com/ghpvc/?username=Ainadri-Mandal&label=Profile+Views&color=b57edc&style=flat" />
+  <img src="https://img.shields.io/github/stars/Ainadri-Mandal/Ainadri-Mandal?color=b57edc&logo=github&style=flat" />
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 🎨 Vibes
 
-#### 🌐 Web Dev
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🎧 Lo-fi + code  
+- ✏️ Sketching  
+- 💡 Design-minded  
+- 🔁 Always learning
 
-#### 📊 Data Science
-![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=4B8BBE)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### 🛠 Tools
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80" />
+</p>
 
 ---
 
-### 🌟 Highlight Projects (More coming soon...)
-
-| 💡 Project | 🚀 Tech Used | 🔗 Link |
-|-----------|--------------|--------|
-| **Rentify (Room Booking)** | MERN, Firebase | [Rentify](https://ibm-final-project-pink.vercel.app/) |
-| **Ainaa (Shopping Site)** | HTML, CSS, React (UI done) | [_In Progress_](https://github.com/Ainadri-Mandal/Ainaa-E-commerce-Website) |
-| **Paytm Clone / Calculator / Keyboard** | JS, CSS | [IBM Repo](https://github.com/Ainadri-Mandal/IBM-Assignments) |
-| **Portfolio Website** | HTML, CSS, JS | [Portfolio](https://github.com/Ainadri-Mandal/Portfolio/tree/main/portfolio) |
-
-> Want more? Stay tuned, the repo list is about to get a glow-up 🌸
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ainadri-Mandal&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ainadri-Mandal&theme=catppuccin_mocha&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainadri-Mandal&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ainadri-Mandal&theme=flat&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ainadri-Mandal&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
----
-
-### 🌐 Let's Connect
+### 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ainadrimandal/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ainadri-Mandal">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Tech Stack
+
+#### 🌐 Web & Tools  
 <p align="center">
-  🌸 DM-friendly | Open to collabs | Always up for creative chaos 🌸
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+#### 📊 Data Science  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
-### ✨ Extras
+### 🌟 Projects
 
-> _“Creativity is intelligence having fun.”_ — Albert Einstein
+| 💡 Project | 🚀 Tech | 🔗 Link |
+|------------|---------|--------|
+| **Rentify** | MERN + Firebase | [Live](https://ibm-final-project-pink.vercel.app/) |
+| **Ainaa** | HTML, CSS, React | [GitHub](https://github.com/Ainadri-Mandal/Ainaa-E-commerce-Website) |
+| **IBM Mini Tools** | JS, CSS | [Repo](https://github.com/Ainadri-Mandal/IBM-Assignments) |
+| **Portfolio** | HTML, CSS, JS | [GitHub](https://github.com/Ainadri-Mandal/Portfolio/tree/main/portfolio) |
 
-🎵 Coding to lo-fi  
-🎨 Designing ideas with code  
-💭 Dreaming in both logic and color  
+---
+
+### 📈 GitHub Stats (Compact)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="120" alt="Creative GIF" />
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="120" alt="Data Flow" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ainadri-Mandal&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&card_width=300" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainadri-Mandal&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=300" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ainadri-Mandal&theme=catppuccin_mocha&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ainadri-Mandal&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  🌼 Thanks for visiting!  
-  Let’s build something fun together. ✨💻🎶  
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80" />
+</p>
+
+<p align="center">
+  🌼 Thanks for stopping by! Let’s build something fun. ✨💻🎶
 </p>
