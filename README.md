@@ -15,10 +15,10 @@
 
 ### 💁🏻‍♀️ About Me
 
-🌟 I’m Ainadri — a **developer**, **data explorer**, and an **artist at heart**  
-💻 CS Undergrad  
-🎯 Currently diving into **MERN Stack** & **ML**  
-✨ Merging creativity with logic is my jam  
+- I’m Ainadri — a **developer**, **data explorer**, and an **artist at heart**  
+- CS Undergrad  
+- Currently diving into **MERN Stack** & **ML**  
+- Merging creativity with logic is my jam  
 
 > _Code it, style it, ship it. Then dream bigger._
 
