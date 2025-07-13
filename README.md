@@ -96,7 +96,7 @@
 | 💡 Project | 🚀 Tech | 🔗 Link |
 |------------|---------|--------|
 | **Rentify** | MERN + Firebase | [Live](https://ibm-final-project-pink.vercel.app/) |
-| **Ainaa** | HTML, CSS, React | [GitHub](https://github.com/Ainadri-Mandal/Ainaa-E-commerce-Website) |
+| **Ainaa** | HTML, CSS, React | [GitHub](https://ainadri-mandal.github.io/Ainaa-E-commerce-Website/) |
 | **IBM Mini Tools** | JS, CSS | [Repo](https://github.com/Ainadri-Mandal/IBM-Assignments) |
 | **Portfolio** | HTML, CSS, JS | [GitHub](https://github.com/Ainadri-Mandal/Portfolio/tree/main/portfolio) |
 
